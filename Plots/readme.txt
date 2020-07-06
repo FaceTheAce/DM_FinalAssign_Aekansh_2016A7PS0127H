@@ -1,0 +1,1 @@
+the plots for both methods are same thats why i have only shown one plot
